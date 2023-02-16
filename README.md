@@ -48,13 +48,12 @@ We want these facts to be different from the previous person to create conflicts
 
 # Edit This
 
-The most recent person to merge into main is Jon Leslie 
+The most recent person to merge into main is Ferdinand Torron 
 
-* His favourite sport is ice hockey.
-* He is from the United States.
-* He likes to go cycling.
-* He used to work in a butcher shop and was able to bone and skin a chicken
-  breast in under 2 1/2 minutes...both sides!
-* He loves Mexican food.
+* His favourite sport is trying to understand american football.
+* He is from France.
+* He cycles, only indoors.
+* He likes talking about himself in the third person 
+* He loves Middle Eastern food.
 
 **NOTE - Please try add different types of facts than the previous person has added**
